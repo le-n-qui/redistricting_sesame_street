@@ -62,8 +62,8 @@ class Community():
 #0-.4 Blue .4-.7 Red .7-1 Grey
 #you are *more likely* to be the same color as your neighbor
 Person = 0
-Blue_Limit = .40
-Red_Limit = .70
+Blue_Limit = .52
+Red_Limit = .97
 Grey_Limit = 1
 Total_Blues = 0
 Total_Reds = 0
