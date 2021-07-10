@@ -118,8 +118,8 @@ for i in range(0, 10):
 districts_leaning_blue = 0
 districts_leaning_red = 0
 districts_leaning_grey = 0
-f
-or d in community.voter_districts:
+
+for d in community.voter_districts:
     if d.Get_Community_Lean() == "Blue":
         districts_leaning_blue = districts_leaning_blue + 1
     elif d.Get_Community_Lean() == "Red":
