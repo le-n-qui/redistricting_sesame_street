@@ -40,9 +40,9 @@ class Community():
         self.voter_lean_grey = 0
         
         for voter in self.voter_list:
-            if voter.lean == "o":
+            if voter.lean == "+":
                 self.voter_lean_blue = self.voter_lean_blue + 1
-            elif voter.lean == "x":
+            elif voter.lean == "-":
                 self.voter_lean_red = self.voter_lean_red + 1
             else:
                 self.voter_lean_grey = self.voter_lean_grey + 1
