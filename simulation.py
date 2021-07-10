@@ -87,8 +87,8 @@ while Person < 100:
         Total_Reds = Total_Reds + 1
     else:
         lean = "?"
-        Blue_Limit_New = .2
-        Red_Limit_New = .4
+        Blue_Limit_New = .45
+        Red_Limit_New = .9
         Grey_Limit_New = 1
         Total_Greys = Total_Greys + 1
     v = Voter(lean)
