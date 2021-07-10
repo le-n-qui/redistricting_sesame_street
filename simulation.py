@@ -81,8 +81,8 @@ while Person < 100:
         Total_Blues = Total_Blues + 1
     elif number < Red_Limit:
         lean = "-"
-        Blue_Limit_New = .2
-        Red_Limit_New = .8
+        Blue_Limit_New = .32
+        Red_Limit_New = .97
         Grey_Limit_New = 1
         Total_Reds = Total_Reds + 1
     else:
