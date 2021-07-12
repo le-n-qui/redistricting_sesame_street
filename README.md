@@ -12,4 +12,4 @@ Create a voter simulation to assess for a fair redistricting
  * Ayomide Okuleye
 
 ## Project Summary
-We used Jupyter Notebook from Google Cloud AI Platform to create,run simulations and produce data visualizations (bar charts and maps). Also, we employed ArcGIS to make choropleth maps for visuals. 
+We used Jupyter Notebook from Google Cloud AI Platform to create,run simulations and produce data visualizations (bar charts and maps). Also, we employed ArcGIS to make choropleth maps for visuals. Check our ArcGIS maps [here](https://drive.google.com/drive/folders/1Z36J_56eray7mXSlretrV2ADojGjra8m?usp=sharing). 
