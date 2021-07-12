@@ -16,4 +16,4 @@ We used Jupyter Notebook from Google Cloud AI Platform to create,run simulations
 
 ### Code Folder Locations  
 1) home folder contains the modular / reusable code blocks in 'simulation_demo.ipynb' notebook.  
-2) 'code_final' folder contains item 1) and two simulated redistricting games as standalone notebooks.  
+2) 'code_final' folder contains item 1 and two simulated redistricting games as standalone notebooks.  
