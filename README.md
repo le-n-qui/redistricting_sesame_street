@@ -4,7 +4,7 @@ Create a voter simulation to assess for a fair redistricting
  * Charlie Dey
  * Marcus Golden
 
-## Contributors
+## Team Members
  * Lena Duplechin Seymour
  * Andy Qui Le
  * Faiz Ikramulla
