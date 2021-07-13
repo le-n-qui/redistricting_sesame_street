@@ -14,6 +14,5 @@ Create a voter simulation to assess for a fair redistricting
 ## Project Summary
 We used Jupyter Notebook from Google Cloud AI Platform to create,run simulations and produce data visualizations (bar charts and maps). Also, we employed ArcGIS to make choropleth maps for visuals. Check our ArcGIS maps [here](https://drive.google.com/drive/folders/1Z36J_56eray7mXSlretrV2ADojGjra8m?usp=sharing).  
 
-### Code Folder Locations  
-1) home folder contains the modular / reusable code blocks in 'simulation_demo.ipynb' notebook.  
-2) 'code_final' folder contains item 1 and two simulated redistricting games as standalone notebooks.  
+### Contents of Code Folder  
+  * Folder *code_final* contains simulation_demo jupyter notebook and two simulated redistricting games as standalone notebooks.  
